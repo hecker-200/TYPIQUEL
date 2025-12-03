@@ -1,6 +1,6 @@
 # TYPIQUEL
 
-A lightweight typing practice app inspired by Monkeytype. Written in vanilla HTML/CSS/JavaScript.
+A lightweight typing practice app  Written in vanilla HTML/CSS/JavaScript.
 
 Features
 - Per-character correctness highlighting while typing
